@@ -1375,7 +1375,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 				<dateFormats>
 					<dateFormatLength type="full">
 						<dateFormat>
-							<pattern>EEEE, d 'de' MMMM 'de' U</pattern>
+							<pattern>EEEE, MMMM d, r(U)</pattern>
 						</dateFormat>
 					</dateFormatLength>
 					<dateFormatLength type="long">
@@ -1399,7 +1399,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 				<dateFormats>
 					<dateFormatLength type="full">
 						<dateFormat>
-							<pattern>EEEE, d 'de' MMMM 'de' y G</pattern>
+							<pattern>EEEE, MMMM d, r(U)</pattern>
 						</dateFormat>
 					</dateFormatLength>
 					<dateFormatLength type="long">
@@ -1923,7 +1923,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 				<dateFormats>
 					<dateFormatLength type="full">
 						<dateFormat>
-							<pattern>EEEE, d 'de' MMMM 'de' y</pattern>
+							<pattern>EEEE, MMMM d, r(U)</pattern>
 						</dateFormat>
 					</dateFormatLength>
 					<dateFormatLength type="long">
@@ -2191,7 +2191,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 				<dateFormats>
 					<dateFormatLength type="full">
 						<dateFormat>
-							<pattern>EEEE, d 'de' MMMM 'de' y G</pattern>
+							<pattern>EEEE, MMMM d, r(U)</pattern>
 						</dateFormat>
 					</dateFormatLength>
 					<dateFormatLength type="long">
